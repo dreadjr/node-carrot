@@ -3,7 +3,7 @@
   , "description": ""
   , "version": "0.0.1"
   , "author": ""
-  , "main": "./lib/index",
+  , "main": "./lib/index"
   , "directories": {
       "lib": "./lib"
   }

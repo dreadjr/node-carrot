@@ -1,0 +1,23 @@
+{
+    "name": "carrot"
+  , "description": ""
+  , "version": "0.0.1"
+  , "author": ""
+  , "dependencies": {
+      "moment": "*"
+    , "qs": "*"
+  }
+  , "devDependencies": {
+      "mocha": "*"
+    , "should": "*"
+    , "sinon": "*"
+  }
+  , "scripts": {
+      "test": "mocha"
+    , "start": "run"
+  }
+  , "engines": { 
+    "node": ">=0.6"
+  }
+}
+

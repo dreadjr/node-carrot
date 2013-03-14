@@ -2,6 +2,8 @@
 
 http://project.carrot2.org/index.html
 
-### Installation
+## Installation
 
     npm install carrot
+
+## Documentation

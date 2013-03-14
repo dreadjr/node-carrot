@@ -3,6 +3,10 @@
   , "description": ""
   , "version": "0.0.1"
   , "author": ""
+  , "main": "./lib/index",
+  , "directories": {
+      "lib": "./lib"
+  }
   , "dependencies": {
       "moment": "*"
     , "qs": "*"

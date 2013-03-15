@@ -8,8 +8,10 @@
       "lib": "./lib"
   }
   , "dependencies": {
-      "moment": "*"
-    , "qs": "*"
+      "underscore": "*"
+    , "xml": "*"
+    , "restler": "*"
+    , "xml2js": "*"
   }
   , "devDependencies": {
       "mocha": "*"
